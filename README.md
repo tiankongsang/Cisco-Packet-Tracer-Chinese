@@ -15,7 +15,7 @@ Packet Tracer是由思科系统设计的跨平台可视化仿真工具，它允�
 1. 下载百度云文件 链接：https://eyun.baidu.com/s/3pM0C6E3 密码：`cqvie`  
 2. 安装 `Cisco Packet Tracer 7.3.0.0838` 程序。  
 
-#### Cisco的帐号：
+#### Cisco的帐号
 
 运行软件，如果你有Cisco的帐号的话，可以使用 `User Login`，如果没有，请免费用我的,请不要改密码。  
 邮箱：`cqviecloud@qq.com`  
