@@ -29,7 +29,7 @@ Packet Tracer是由思科系统设计的跨平台可视化仿真工具，它允�
 
 #### 参与贡献  
 
-##### Github / Gitee 
+##### [Github](https://github.com/tiankongsang/Cisco-Packet-Tracer-Chinese) / [Gitee](https://gitee.com/cqvieyjs/Cisco-Packet-Tracer-Chinese) 
 
 1.  Fork 本仓库  
 2.  新建 Feat_xxx 分支  
